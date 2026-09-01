@@ -1,8 +1,13 @@
-/***
- * This Lab Requires students to be able to create a simple code
- * Named Hello World where they must create and run a function to
- * print out "Hellow World!" and "Hello World again!".
-***/
+/**
+ * @file Hello.cpp
+ * @author your name (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2026-09-01
+ * 
+ * @copyright Copyright (c) 2026
+ * 
+ */
 
 #include <iostream>
 #include <cstdlib>

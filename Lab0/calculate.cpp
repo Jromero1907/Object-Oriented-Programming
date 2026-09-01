@@ -1,7 +1,7 @@
 /**
  * @file calculate.cpp
- * @author your name (you@domain.com)
- * @brief 
+ * @author Jenn
+ * @brief shows the difference between dividing int with int & int with double
  * @version 0.1
  * @date 2026-09-01
  * 

@@ -23,3 +23,25 @@
 - [x] Tested `isAlive()`
 - [x] Program compiles without errors
 - [x] Program runs correctly
+
+## Program Output
+
+```text
+Jaylen Current Stats:
+Hits Taken: 0
+Luck: 0.2
+Exp: 60
+Level: 1
+
+NPC Current Stats:
+Hits Taken: 0
+Luck: 0.1
+Exp: 50
+Level: 1
+
+P2 hits taken: 3
+
+0 is dead 1 is alive
+P1: 1
+P2: 0
+```

@@ -1,6 +1,16 @@
+/**
+ * @file RPG.h
+ * @author Jennifer Romero
+ * @brief 
+ * @version 0.1
+ * @date 2026-10-01
+ * 
+ * @copyright Copyright (c) 2026
+ * 
+ */
 // RPG.h
 
-#ifndef RPH_H
+#ifndef RPG_H
 #define RPG_H
 
 #include <string>
@@ -15,7 +25,11 @@ class RPG
 {
 public:
 
-    //constructors
+    // constructors
+    RPG();
+    RPG(string new_name, int new_hits, float new_luck, float new_exp, int new_level);
+
+    // destructor
     ~RPG();
 
     // mutators

@@ -22,10 +22,10 @@
 }
 
 // overloaded constructor
-RPG:: RPG(string new_name, int new_hits, float new_luck, float new_exp, int new_level);
+RPG:: RPG(string new_name, int new_hits, float new_luck, float new_exp, int new_level)
 {
     name = new_name;
-    its_taken = new_hits;
+    hits_taken = new_hits;
     luck = new_luck;
     exp = new_exp;
     level = new_level;

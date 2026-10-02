@@ -30,26 +30,4 @@ https://github.com/Jromero1907/Object-Oriented-Programming/tree/main/Lab3
 
 ## Program Output
 
-![Terminal Output](images/Termina_Image.png)
-
-## Program Output
-
-```text
-Jaylen Current Stats:
-Hits Taken: 0
-Luck: 0.2
-Exp: 60
-Level: 1
-
-NPC Current Stats:
-Hits Taken: 0
-Luck: 0.1
-Exp: 50
-Level: 1
-
-P2 hits taken: 3
-
-0 is dead 1 is alive
-P1: 1
-P2: 0
-```
+![Terminal Output](Images/Terminal_Image.png)

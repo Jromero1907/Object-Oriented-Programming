@@ -1,5 +1,9 @@
 # Role Playing Game Part One
 
+## GitHub Link
+
+https://github.com/Jromero1907/Object-Oriented-Programming/tree/main/Lab3
+
 ## Completion Checklist
 
 ### RPG Class
@@ -23,6 +27,10 @@
 - [x] Tested `isAlive()`
 - [x] Program compiles without errors
 - [x] Program runs correctly
+
+## Program Output
+
+![Terminal Output](images/Termina_Image.png)
 
 ## Program Output
 

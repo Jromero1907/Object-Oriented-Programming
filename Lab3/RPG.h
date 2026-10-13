@@ -43,6 +43,12 @@ public:
     float getExp() const;
     int getLevel() const;
 
+    //Extended Functions
+    void setName(string name);
+    void updateExpLevel();
+    void attack(RPG *opponent);
+    void printStats();
+
 private:
 
     string name;

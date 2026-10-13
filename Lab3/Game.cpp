@@ -9,8 +9,11 @@
  * 
  */
 
-#include "RPG.h"
 #include "Game.h"
+#include "RPG.h"
+#include <string>
+#include <vector>
+#include <set>
 
 Game:: Game()
 {

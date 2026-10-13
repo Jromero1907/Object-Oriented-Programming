@@ -9,11 +9,11 @@
  * 
  */
 
- #include "RPG.h"
+#include "RPG.h"
 
- // Default constructor
- RPG:: RPG()
- {
+// Default constructor
+RPG:: RPG()
+{
     name = "NPC";
     hits_taken = 0;
     luck = 0.1;

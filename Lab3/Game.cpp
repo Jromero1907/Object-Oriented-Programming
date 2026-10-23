@@ -12,6 +12,7 @@
 #include "Game.h"
 #include <random>
 #include <iostream>
+#include <iomanip>
 
 using namespace std;
 

@@ -24,16 +24,24 @@ using namespace std;
 class Game
 {
  public:
+
+    // Constructors
     Game();
+
+    //Game Functions
     void generatePlayers(int n);
     int selectPlayer();
     void endRound(RPG *winner, RPG *loser, int loserIndex);
     void battleRound();
     void gameLoop();
     void printFinalResults();
+
+    // Destructors
     ~Game();
 
 private:
+
+    // Game Attributes
     vector<RPG*> players;
     set<int> live_players;
 };

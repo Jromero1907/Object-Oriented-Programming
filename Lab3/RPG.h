@@ -33,7 +33,6 @@ public:
     ~RPG();
 
     // mutators
-    bool isAlive() const;
     void setHitsTaken(int new_hits);
 
     // accesors
@@ -42,6 +41,7 @@ public:
     float getLuck() const;
     float getExp() const;
     int getLevel() const;
+    bool isAlive() const;
 
     //Extended Functions
     void setName(string name);

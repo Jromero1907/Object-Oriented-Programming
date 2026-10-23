@@ -82,4 +82,4 @@ Run the program:
 
 The program displays the winner of each battle and the final statistics of all 10 players, including their name, hits taken, luck, experience, level, and status.
 
-![Terminal Output](Images/Terminal_Image2.png)
+![Part Two Terminal Output](Images/Terminal_Image_2.png)
